@@ -1,7 +1,7 @@
 <div align="center" id="top">
   <img src="https://profile-readme-generator.com/assets/app.png" width="900" alt="Profile Readme Generator" />
 
-  <a href="https://profile-readme-generator.com">Demo</a>
+  <a href="https://profile-readme-generator.com"></a>
 </div>
 
 <div align="center">

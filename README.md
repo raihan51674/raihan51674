@@ -5,7 +5,7 @@
 
 
 
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md.Raihan+Islam;Software+Developer+W..;Nice+To+Meet+You+....&center=true"></a></p>
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Md.Raihan+Islam;Software+Developer+..;Nice+To+Meet+You+....&center=true"></a></p>
 
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">

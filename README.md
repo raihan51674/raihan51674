@@ -3,6 +3,7 @@
 
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://alih6051.github.io)
 
+
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
     Hi
@@ -25,10 +26,10 @@
 🔭 I’m currently preparing for placements!.<br>
 <br>🌱 I’m currently learning MERN Stack.<br>
 <br>📄 Check out my [Resume](https://1drv.ms/b/s!AgPbShu6dL-mg2mrhza2Kzvab5KF?e=LhOIUG)<br>
-<br>💻 Know more about me [Portfilio](https://alih6051.github.io/)<br>
-<br>💻 All of my projects are available at My [Github Repositories](https://github.com/alih6051?tab=repositories)<br>
+<br>💻 Know more about me [Portfilio](https://raihan51.netlify.app)<br>
+<br>💻 All of my projects are available at My [Github Repositories](https://github.com/raihan51674?tab=repositories)<br>
 <br>💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br>
-<br>📫 How to reach me alih6051@gmail.com<br>
+<br>📫 How to reach me mdraihan51674@gmail.com<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
 
@@ -36,7 +37,7 @@
 <br />
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/mohd-hasan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a target="_blank" href="mailto: alih6051@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a target="_blank" href="mailto: mdraihan51674@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a target="_blank" href="https://github.com/alih6051"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br />

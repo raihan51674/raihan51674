@@ -38,7 +38,7 @@
 <div align="center">
   <a target="_blank" href="https://www.linkedin.com/in/mohd-hasan"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a target="_blank" href="mailto: mdraihan51674@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://github.com/alih6051"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a target="_blank" href="https://github.com/raihan51674"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 <br />
 

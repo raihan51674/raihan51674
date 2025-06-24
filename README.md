@@ -1,6 +1,5 @@
 # 📊 GitHub Stats:
 
-<li> text </li>
 
 
 

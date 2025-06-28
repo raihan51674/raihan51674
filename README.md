@@ -11,12 +11,33 @@ Here is some ideas to get you started.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> #  About Me:
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">   About Me:
 
 <img align="right" height="270" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Animation" />
 🔭 I’m currently working on ecommerce website.<br>👯 I’m looking to collaborate on Front-End and Back-End Projects.<br>🌱 I’m currently learning web dev. <br>📧 How to reach me: mdraihan51674@gmail.com** <br> 💬 Ask me about technologies and web development.<br>⚡ Fun fact :🌐 Full-Stack Adventurer: Jumping between frontend animations and backend APIs like it’s a parkour course.<br> 😃 pronounce : He/Him
 
 <br clear="right"/>
+
+
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+
+
+<div align="center">
+
+### 🎨 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,materialui,figma&theme=dark" />
+
+### ⚙️ **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+### 🛠️ **Tools & Technologies**
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify&theme=dark" />
+
+### 📱 **Languages**
+<img src="https://skillicons.dev/icons?i=cpp,java,js&theme=dark" />
+
+</div>
 
 
 

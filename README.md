@@ -1,3 +1,19 @@
+
+
+<div align="center">
+<!-- Animated typing with multiple lines -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full-Stack+Web+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%F0%9F%92%BB;From+Bangladesh" alt="Typing SVG" />
+
+<!-- Animated divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="400">
+
+</div>
+
+
+
+
+
+
 # 📊 GitHub Stats:
 
 

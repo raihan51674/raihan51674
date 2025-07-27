@@ -110,7 +110,8 @@ I am a dedicated MERN Stack Developer specializing in building robust, scalable,
 ---
 
 ### 🎯 Contribution Graph
-![Contribution Graph](https://raw.githubusercontent.com/raihan51674/raihan51674/output/github-contribution-grid-snake.svg)
+![GitHub Contributions](https://github.com/raihan51674.png?tab=overview)
+
 
 ---
 

@@ -110,7 +110,8 @@ I am a dedicated MERN Stack Developer specializing in building robust, scalable,
 ---
 
 ### 🎯 Contribution Graph
-![GitHub Contributions](https://github.com/raihan51674.png?tab=overview)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=raihan51674&theme=react-dark)
 
 
 ---

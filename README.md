@@ -6,6 +6,17 @@
 </p>
 
 ---
+### 🚀 About Me
+
+I am a dedicated MERN Stack Developer specializing in building robust, scalable, and maintainable web applications. With a strong foundation in JavaScript and modern frameworks, I focus on delivering clean code and seamless user experiences.
+
+- 🌱 Currently advancing my expertise in **React.js**, **Node.js**, **MongoDB**, and **Firebase**.
+- 🔭 Passionate about architecting full-stack solutions that solve real-world problems.
+- 💼 Open to freelance, contract, and remote opportunities.
+- 💬 Feel free to reach out for collaboration or technical discussions on **React**, **Express**, **REST APIs**, **Authentication**, and **UI/UX design**.
+
+---
+
 
 ### 🛠️ Technologies & Tools
 

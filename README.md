@@ -17,6 +17,46 @@ I am a dedicated MERN Stack Developer specializing in building robust, scalable,
 
 ---
 
+<!-- Tech Stack with animated icons -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Tech Stack
+
+<div align="center">
+
+### 🎨 **Frontend Development**
+<img src="https://skillicons.dev/icons?i=html,css,js,react,reactrouter,axios,tailwind,framer,motion,redux,rehcharts,reacthookform,reacticons,sweetalert2,swiper,reactpaginate,lottie,reactspinners,reactquery,reacthelmet&theme=dark" style="margin:6px;" />
+
+### ⚙️ **Backend Development**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,firebase,jwt,stripe,bcrypt,multer,cors&theme=dark" style="margin:6px;" />
+<!-- Note: bcrypt, multer, cors icons are not on skillicons, so use text labels or images below -->
+
+<p>
+  <b>Additional Backend Tools:</b> <code>Bcrypt</code>, <code>Multer</code>, <code>CORS</code>, <code>REST API Design</code>, <code>JSON Web Tokens</code>
+</p>
+
+### 🛠️ **Tools & Technologies**
+<img src="https://skillicons.dev/icons?i=git,github,npm,vercel,netlify,postman,figma,vscode,eslint,prettier,mongodbatlas&theme=dark" style="margin:6px;" />
+<p>
+  <b>Additional Tools:</b> <code>REST API</code>, <code>TanStack Query</code>, <code>React Responsive</code>
+</p>
+
+### 🚀 **Deployment Platforms**
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&theme=dark" style="margin:6px;" />
+
+### 🔐 **Authentication**
+<img src="https://skillicons.dev/icons?i=firebase,jwt,google,facebook&theme=dark" style="margin:6px;" />
+
+### ✨ **Animation & UI Effects**
+<img src="https://skillicons.dev/icons?i=framer,lottie,swiper,sweetalert2&theme=dark" style="margin:6px;" />
+<p><b>Additional Animations:</b> CSS Animations, GSAP (optional)</p>
+
+### 📱 **Responsive Design**
+<p>
+  Tailwind CSS, React Responsive, Media Queries, Flexbox, CSS Grid
+</p>
+
+</div>
+
+
 
 ### 🛠️ Technologies & Tools
 

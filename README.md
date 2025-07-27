@@ -63,9 +63,9 @@
 
 ### 📊 GitHub Stats & Activity:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=raihan51674&show_icons=true&theme=radical" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan51674&theme=radical" alt="GitHub Streak" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihan51674&layout=compact&theme=radical" alt="Top Languages" height="200"/>
 </p>
 
 ---

@@ -2,10 +2,11 @@
 <h3 align="center">A passionate MERN stack web developer from Bangladesh</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;Frontend+%2F+Backend+Specialist;Passionate+about+clean+code;Always+learning+new+tech"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;Frontend+%2F+Backend+Specialist;Passionate+about+clean+code;Always+learning+new+tech" />
 </p>
 
 ---
+
 ### 🚀 About Me
 
 I am a dedicated MERN Stack Developer specializing in building robust, scalable, and maintainable web applications. With a strong foundation in JavaScript and modern frameworks, I focus on delivering clean code and seamless user experiences.
@@ -27,8 +28,6 @@ I am a dedicated MERN Stack Developer specializing in building robust, scalable,
 
 ### ⚙️ **Backend Development**
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mongoose,firebase,jwt,stripe,bcrypt,multer,cors&theme=dark" style="margin:6px;" />
-<!-- Note: bcrypt, multer, cors icons are not on skillicons, so use text labels or images below -->
-
 <p>
   <b>Additional Backend Tools:</b> <code>Bcrypt</code>, <code>Multer</code>, <code>CORS</code>, <code>REST API Design</code>, <code>JSON Web Tokens</code>
 </p>
@@ -56,73 +55,57 @@ I am a dedicated MERN Stack Developer specializing in building robust, scalable,
 
 </div>
 
-
+---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raihan51674&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan51674E&theme=radical" alt="GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan51674&theme=radical" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihan51674&theme=react-dark" alt="Activity Graph" />
 </p>
 
+---
 
-<!-- Trophies Section -->
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=raihan51674&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=raihan51674&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
+---
 
-<!-- Detailed Analytics -->
 ## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="32"> Detailed Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihan51674&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihan51674&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihan51674&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihan51674&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihan51674&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihan51674&theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihan51674&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raihan51674&theme=github_dark&utcOffset=6" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihan51674&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raihan51674&theme=github_dark&utcOffset=6" />
 
 </div>
 
-<!-- Live Metrics -->
+---
+
 ## <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="32"> Live Metrics
 
 <div align="center">
 
-<!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=raihan51674&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
-<!-- Followers Count -->
-<img src="https://img.shields.io/github/followers/raihan51674?label=Followers&style=for-the-badge&color=blue" />
-<!-- Total Stars Count -->
-<img src="https://img.shields.io/github/stars/raihan51674?label=Total%20Stars&style=for-the-badge&color=yellow" />
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=raihan51674&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <!-- Followers Count -->
+  <img src="https://img.shields.io/github/followers/raihan51674?label=Followers&style=for-the-badge&color=blue" />
+  <!-- Total Stars Count -->
+  <img src="https://img.shields.io/github/stars/raihan51674?label=Total%20Stars&style=for-the-badge&color=yellow" />
 
 </div>
-
-
-
-
-
-
-
-
-
-### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raihan51674&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan51674&theme=radical" width="48%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=raihan51674&theme=react-dark" />
-</p>
 
 ---
 
@@ -132,8 +115,8 @@ I am a dedicated MERN Stack Developer specializing in building robust, scalable,
 ---
 
 ### 📫 Contact Me
-- 📧 Email: your@email.com
-- 💼 LinkedIn: [LinkedIn](https://linkedin.com/in/your-linkedin-profile-here)
+- 📧 Email: mdraihan51674@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
 - 🌐 Portfolio: [your-portfolio-website.com](https://your-portfolio-website.com)
 
 ---

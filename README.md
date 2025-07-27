@@ -1,103 +1,119 @@
 <h1 align="center">Hi 👋, I'm MD. Raihan Islam</h1>
-<h3 align="center">🚀 MERN Stack Developer | Open Source Enthusiast | Problem Solver</h3>
-
----
-
-### 🧑‍💻 Frontend Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0184?style=flat&logo=framer&logoColor=white)
-![Recharts](https://img.shields.io/badge/Recharts-FF9800?style=flat)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat)
-![React Icons](https://img.shields.io/badge/React_Icons-61DAFB?style=flat&logo=react)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF4154?style=flat)
-![Swiper.js](https://img.shields.io/badge/Swiper-6332F6?style=flat)
-![React Paginate](https://img.shields.io/badge/React_Paginate-007ACC?style=flat)
-![Lottie](https://img.shields.io/badge/Lottie-00C1D4?style=flat)
-![React Spinners](https://img.shields.io/badge/React_Spinners-FF6B6B?style=flat)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat&logo=react-query)
-![React Helmet](https://img.shields.io/badge/React_Helmet-61DAFB?style=flat)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
-
----
-
-### 🧑‍💻 Backend Technologies
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6F00?style=flat)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-4B8BBE?style=flat)
-![Multer](https://img.shields.io/badge/Multer-FF6F61?style=flat)
-![CORS](https://img.shields.io/badge/CORS-336699?style=flat)
-![JSON Web Tokens](https://img.shields.io/badge/JSON_Web_Tokens-000000?style=flat)
-
----
-
-### 🛠️ Tools & Libraries
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat)
-![React Responsive](https://img.shields.io/badge/React_Responsive-61DAFB?style=flat)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat&logo=prettier)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat)
-
----
-
-### ☁️ Deployment Platforms
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify)
-![Firebase Hosting](https://img.shields.io/badge/Firebase_Hosting-FFCA28?style=flat&logo=firebase)
-
----
-
-### 🔐 Authentication
-
-![Firebase Auth](https://img.shields.io/badge/Firebase_Authentication-FFCA28?style=flat&logo=firebase)
-![JWT](https://img.shields.io/badge/JWT_Authentication-000000?style=flat)
-![OAuth](https://img.shields.io/badge/OAuth-Green?style=flat&logo=auth0)
-
----
-
-### ✨ Animation & Interactivity
-
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-EF0184?style=flat&logo=framer)
-![Lottie](https://img.shields.io/badge/Lottie-00C1D4?style=flat)
-![Swiper.js](https://img.shields.io/badge/Swiper.js-6332F6?style=flat)
-![SweetAlert2](https://img.shields.io/badge/SweetAlert2-FF4154?style=flat)
-![CSS Animation](https://img.shields.io/badge/CSS_Animations-264de4?style=flat&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat)
-
----
-
-### 📱 Responsive Design
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css)
-![React Responsive](https://img.shields.io/badge/React_Responsive-61DAFB?style=flat)
-![Media Queries](https://img.shields.io/badge/Media_Queries-000000?style=flat)
-![Flexbox](https://img.shields.io/badge/Flexbox-1572B6?style=flat)
-
----
+<h3 align="center">🚀 MERN Stack Developer | Passionate Coder | Creative Thinker</h3>
 
 <p align="center">
-🔥 Passionate about building full-stack web apps, solving real-world problems, and constantly learning new tech!
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Expert;Open+Source+Lover;Always+Learning+New+Things..." alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320" />
+</p>
+
+---
+
+## 🌐 Frontend Technologies
+
+<p align="left">
+  <img src="https://img.icons8.com/color/96/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/96/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/96/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-tailwind-css-a-utility-first-css-framework-for-rapid-ui-development-logo-color-tal-revivo.png" title="Tailwind CSS"/>
+  <img src="https://img.icons8.com/color/96/react-native.png" title="React.js"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-react-router-a-collection-of-navigational-components-that-compose-declaratively-logo-color-tal-revivo.png" title="React Router"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/axios-1.svg" width="80" title="Axios"/>
+  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="80" title="Framer Motion"/>
+  <img src="https://recharts.org/assets/logo.png" width="80" title="Recharts"/>
+  <img src="https://avatars.githubusercontent.com/u/69983066?s=200&v=4" width="80" title="React Hook Form"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/sweetalert.svg" width="80" title="SweetAlert2"/>
+  <img src="https://swiperjs.com/images/logo.svg" width="80" title="Swiper.js"/>
+  <img src="https://miro.medium.com/v2/resize:fit:320/1*zY-8iYjSxCSsy6Xk_VhYVw.png" width="80" title="React Paginate"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/LottieLogo_Color.svg/1024px-LottieLogo_Color.svg.png" width="80" title="Lottie React"/>
+  <img src="https://raw.githubusercontent.com/danilowoz/react-content-loader/master/logo.png" width="80" title="React Spinners"/>
+  <img src="https://raw.githubusercontent.com/tanstack/query/7c2fc11ca70761f21e9cd367d0976ae242c82302/media/logo.png" width="80" title="React Query / TanStack"/>
+  <img src="https://seeklogo.com/images/R/react-helmet-logo-8A2E49C90D-seeklogo.com.png" width="80" title="React Helmet"/>
+  <img src="https://img.icons8.com/color/96/redux.png" title="Redux (Optional)"/>
+</p>
+
+---
+
+## 💻 Backend Technologies
+
+<p align="left">
+  <img src="https://img.icons8.com/color/96/nodejs.png" title="Node.js"/>
+  <img src="https://img.icons8.com/ios-filled/100/express-js.png" title="Express.js"/>
+  <img src="https://img.icons8.com/color/96/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/96/firebase.png" title="Firebase"/>
+  <img src="https://jwt.io/img/pic_logo.svg" width="80" title="JWT Auth"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/stripe-4.svg" width="80" title="Stripe Integration"/>
+  <img src="https://seeklogo.com/images/M/mongoose-logo-68B7CCE703-seeklogo.com.png" width="80" title="Mongoose"/>
+  <img src="https://avatars.githubusercontent.com/u/59577263?s=200&v=4" width="80" title="Multer"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/CORS_Logo.svg/2560px-CORS_Logo.svg.png" width="80" title="CORS"/>
+  <img src="https://seeklogo.com/images/B/bcrypt-logo-F1E9ED2645-seeklogo.com.png" width="80" title="Bcrypt"/>
+</p>
+
+---
+
+## 🧰 Tools & Utilities
+
+<p align="left">
+  <img src="https://img.icons8.com/color/96/git.png" title="Git"/>
+  <img src="https://img.icons8.com/glyph-neue/96/github.png" title="GitHub"/>
+  <img src="https://img.icons8.com/color/96/npm.png" title="NPM"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" title="VS Code"/>
+  <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" title="Postman"/>
+  <img src="https://img.icons8.com/color/96/figma--v1.png" title="Figma"/>
+  <img src="https://img.icons8.com/color/96/netlify.png" title="Netlify"/>
+  <img src="https://assets.vercel.com/image/upload/v1662130559/front/favicon/vercel/favicon.ico" width="80" title="Vercel"/>
+  <img src="https://img.icons8.com/color/96/google-firebase-console.png" title="Firebase Hosting"/>
+  <img src="https://avatars.githubusercontent.com/u/10251060?s=280&v=4" width="80" title="MongoDB Atlas"/>
+  <img src="https://img.icons8.com/plasticine/100/json.png" title="REST API"/>
+  <img src="https://img.icons8.com/color/96/eslint.png" title="ESLint"/>
+  <img src="https://seeklogo.com/images/P/prettier-logo-D5C5197E37-seeklogo.com.png" width="80" title="Prettier"/>
+</p>
+
+---
+
+## 🔐 Authentication Methods
+
+<p align="left">
+  <img src="https://img.icons8.com/color/96/firebase.png" title="Firebase Authentication"/>
+  <img src="https://jwt.io/img/pic_logo.svg" width="80" title="JWT Authentication"/>
+  <img src="https://img.icons8.com/color/96/google-logo.png" title="Google OAuth"/>
+  <img src="https://img.icons8.com/color/96/facebook-new.png" title="Facebook OAuth"/>
+</p>
+
+---
+
+## 🎨 Animation & Responsive
+
+<p align="left">
+  <img src="https://seeklogo.com/images/F/framer-motion-logo-DA1E33CAA1-seeklogo.com.png" width="80" title="Framer Motion"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/LottieLogo_Color.svg/1024px-LottieLogo_Color.svg.png" width="80" title="Lottie React"/>
+  <img src="https://swiperjs.com/images/logo.svg" width="80" title="Swiper.js"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/2085/2085310.png" width="80" title="SweetAlert2"/>
+  <img src="https://greensock.com/uploads/monthly_2020_03/gsap-greensock.svg.c0d4d507bf1982be694289faeebd72c0.svg" width="80" title="GSAP"/>
+  <img src="https://img.icons8.com/ios-filled/100/4a90e2/responsive.png" title="Responsive Design"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&rank_icon=github&locale=en" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" width="45%"/>
+</p>
+
+---
+
+## 📬 Contact Me
+
+<p align="left">
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.icons8.com/color/96/gmail--v1.png" title="Email"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.icons8.com/color/96/linkedin.png" title="LinkedIn"/></a>
+  <a href="https://yourportfolio.com"><img src="https://img.icons8.com/ios/96/domain.png" title="Portfolio"/></a>
+</p>
+
+---
+
+<p align="center"><b>⚡ I love building full-stack applications, creating scalable systems, and constantly learning new tools.</b></p>

@@ -74,7 +74,7 @@ I am a dedicated MERN Stack Developer specializing in building robust, scalable,
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="32"> GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mdrijoanmaruf&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=raihan51674&theme=discord&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 

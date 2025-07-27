@@ -58,46 +58,21 @@ I am a dedicated MERN Stack Developer specializing in building robust, scalable,
 
 
 
-### 🛠️ Technologies & Tools
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32"> GitHub Analytics
 
-#### 👨‍💻 Frontend:
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" />
-  <img src="https://img.shields.io/badge/-Axios-5A29E4?style=flat&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=flat&logo=framer" />
-  <img src="https://img.shields.io/badge/-Recharts-FF7F50?style=flat" />
-  <img src="https://img.shields.io/badge/-Swiper.js-6332F6?style=flat&logo=swiper" />
-  <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux" />
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raihan51674&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raihan51674E&theme=radical" alt="GitHub Streak" width="49%" />
 </p>
 
-#### 🧠 Backend:
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Multer-1E90FF?style=flat" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=raihan51674&theme=react-dark" alt="Activity Graph" />
 </p>
 
-#### 🧰 Tools:
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel" />
-  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify" />
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
-</p>
 
----
+
+
+
 
 ### 🔥 GitHub Stats
 <p align="center">

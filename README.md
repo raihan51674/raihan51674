@@ -100,12 +100,14 @@ I utilize a modern and comprehensive tech stack to bring ideas to life. Here are
 
 ---
 
-### 📫Let's Contact Me
-I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. If you want to chat about technology, projects, or anything else, don't hesitate to reach out!
+### 📫 Let's Connect
 
-- 📧 Email: mdraihan51674@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin-profile]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/raihanislam-dev))
-- 🌐 Portfolio: [your-portfolio-website.com]([https://your-portfolio-website.com](https://portfolioh-seven.vercel.app/))
+I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators.  
+Whether you want to discuss a project, explore opportunities, or just talk tech — feel free to reach out!
+
+- 📧 **Email:** [mdraihan51674@gmail.com](mailto:mdraihan51674@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/raihanislam-dev](https://www.linkedin.com/in/raihanislam-dev)  
+- 🌐 **Portfolio:** [portfolioh-seven.vercel.app](https://portfolioh-seven.vercel.app/)
 
 ---
 

@@ -104,8 +104,8 @@ I utilize a modern and comprehensive tech stack to bring ideas to life. Here are
 I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators. If you want to chat about technology, projects, or anything else, don't hesitate to reach out!
 
 - 📧 Email: mdraihan51674@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
-- 🌐 Portfolio: [your-portfolio-website.com](https://your-portfolio-website.com)
+- 💼 LinkedIn: [linkedin.com/in/your-linkedin-profile]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/raihanislam-dev))
+- 🌐 Portfolio: [your-portfolio-website.com]([https://your-portfolio-website.com](https://portfolioh-seven.vercel.app/))
 
 ---
 

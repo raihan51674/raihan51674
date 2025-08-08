@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;Frontend+%2F+Backend+Specialist;Passionate+about+clean+code;Always+learning+new+tech" />
 </p>
 
+(https://media.licdn.com/dms/image/v2/D5616AQFdokKrUUJUyQ/profile-displaybackgroundimage-shrink_350_1400/B56ZiH13fwH0AY-/0/1754625703017?e=1757548800&v=beta&t=Pns_HYOZnrzGsHLPK1Se43EZeGNSuKQkiXmdwTmTF5I)
+
 ---
 
 ### 🚀 About Me

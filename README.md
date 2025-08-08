@@ -96,13 +96,6 @@ I utilize a modern and comprehensive tech stack to bring ideas to life. Here are
 
 ---
 
-### 🎯 Contribution Graph
-
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=raihan51674&theme=react-dark)
-
-
----
-
 ### 📫 Let's Connect
 
 I'm always excited to connect with fellow developers, tech enthusiasts, and potential collaborators.  

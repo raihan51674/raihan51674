@@ -7,6 +7,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=22&center=true&vCenter=true&width=600&lines=MERN+Stack+Web+Developer;Frontend+%2F+Backend+Specialist;Passionate+about+clean+code;Always+learning+new+tech" />
 </p>
+---
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rayyan.islam.2025)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raihanislam-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdraihan51674@gmail.com)
+
+
 
 ---
 

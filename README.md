@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-I am a passionate and results-driven MERN Stack Developer specializing in building robust and maintainable web applications. My expertise lies in crafting dynamic, high-performance digital experiences from concept to deployment. I thrive on solving complex problems and am dedicated to writing clean, efficient, and well-documented code.
+I am a passionate and results-driven MERN Stack Developer specializing in building robust and maintainable web applications. My expertise lies in crafting dynamic, high-performance digital experiences from concept to deployment. I thrive on solving complex problems and am dedicated to writing clean, efficient, and well-documented code.Reach me at: [mdraihan51674@gmail.com]<br>🌍
 
 - 🌱 Currently advancing my expertise in **React.js**, **Node.js**, **MongoDB**, and **Firebase**.
 - 🔭 Passionate about architecting full-stack solutions that solve real-world problems.
@@ -83,18 +83,9 @@ I utilize a modern and comprehensive tech stack to bring ideas to life. Here are
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raihan51674&theme=github_dark" />
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihan51674&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=raihan51674&theme=github_dark" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=raihan51674&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=raihan51674&theme=github_dark&utcOffset=6" />
-
-</div>
-
----
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=raihan51674&theme=github_dark" 
 
 
----
 
 ### 📫 Let's Connect
 
